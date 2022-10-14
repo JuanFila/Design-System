@@ -19,6 +19,6 @@ module.exports = {
     if (configType === 'PRODUCTION') {
       configType.base = '/Design-System/'
     }
-    return config
+    return config 
   }
 }
